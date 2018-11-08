@@ -6,6 +6,7 @@ import Footer from "../components/Footer/Footer";
 import Navbar from "../components/Navbar/Navbar";
 import Parallax from "../components/Parallax/Parallax";
 import RevealCard from "../components/RevealCard/RevealCard";
+import EmailForm from "..//components/EmailForm/EmailForm";
 import "./Home.css"
 
 
@@ -22,12 +23,13 @@ const Home = () => {
             <div className="section">
                 <Container>
                     <Row>
+                        <h4 className="custFont center light-blue-text text-darken-4">About Me</h4>
                         <Col size="4">
                             <img src={require("../images/headshot.JPG")} alt="Daniel Pruitt" className="circle valign-wrapper responsive-img hoverable" />
                         </Col>
 
                         <Col size="8">
-                            <p className="custFont center light-blue-text text-darken-1">I'm full stack web developer and perpetual learner. I originally recieved a Bachelor Degree of Arts in Foreign Language and I have considered myself adept at learning languages, whether it is spoken or computer language. The track to be a Spanish teacher was halted when I started building websites and had the desire to learn to code. Since then I have been teaching myself code prior to attending class and receiveing a certificate from the Georgia Institute of Technology. When at Georgia Tech I learned the basic technologies, HTML, CSS, Javascript, and other more powerful technologies. Such technologies include the jQuery, Handlebars, mySQL and Sequelize, MongoDB, Express, React, and Node. Teamwork and collaboration have been a consistent and necessary action to execute the goal of any team I have been on. The world of coding and web development has opened my mind to explore the extensive use of this technology to bring the ultimate experience to the user.</p>
+                            <p className="custFont center light-blue-text text-darken-4">I'm full stack web developer and perpetual learner. I originally recieved a Bachelor Degree of Arts in Foreign Language and I have considered myself adept at learning languages, whether it is spoken or computer language. The track to be a Spanish teacher was halted when I started building websites and had the desire to learn to code. Since then I have been teaching myself code prior to attending class and receiveing a certificate from the Georgia Institute of Technology. When at Georgia Tech I learned the basic technologies, HTML, CSS, Javascript, and other more powerful technologies. Such technologies include the jQuery, Handlebars, mySQL and Sequelize, MongoDB, Express, React, and Node. Teamwork and collaboration have been a consistent and necessary action to execute the goal of any team I have been on. The world of coding and web development has opened my mind to explore the extensive use of this technology to bring the ultimate experience to the user.</p>
                         </Col>
 
                     </Row>
@@ -44,6 +46,8 @@ const Home = () => {
             <div>
                 <Container>
                     <Row>
+                    <h4 className="custFont center light-blue-text text-darken-4">Projects</h4>
+
                         <Col size="4">
                             <RevealCard
                                 image={require("../images/controller.jpg")}
@@ -108,7 +112,7 @@ const Home = () => {
                 <Container>
                     <Row>
                         <Col size="12">
-
+                            <EmailForm />
                         </Col>
                     </Row>
                 </Container>

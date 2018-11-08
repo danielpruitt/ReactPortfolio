@@ -2,3 +2,69 @@
     font-family: 'Titillium Web', sans-serif;
     font-weight: 900
 }
+/* fix the autocomplete color */
+/* label focus color for type=text */
+.input-field input[type=text]:focus + label {
+    color: #01579b;
+}
+/* label underline focus color for type=text  */
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #01579b;
+    box-shadow: 0 1px 0 0 #01579b;
+}
+
+  /* label focus color for type email */
+.input-field input[type=email]:focus + label {
+    color: #01579b;
+}
+/* label underline focus color for type email */
+.input-field input[type=email]:focus {
+    border-bottom: 1px solid #01579b;
+    box-shadow: 0 1px 0 0 #01579b;
+}
+p {
+    font-size: smaller
+}
+
+/* button animation */
+button {
+	background: #01579b;
+	color: #F6F7EB;
+	border: none;
+	position: relative;
+	margin-bottom: 10vh;
+	height: 60px;
+	font-size: 1.6em;
+	padding: 0 2em;
+	cursor: pointer;
+	transition: 800ms ease all;
+	outline: none;
+}
+
+button:hover {
+	background: #03a9f4  ;
+	color: #01579b;
+}
+
+button:before, button:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 2px;
+	width: 0;
+	background: #01579b;
+	transition: 400ms ease all;
+}
+
+button:after {
+	right: inherit;
+	top: inherit;
+	left: 0;
+	bottom: 0;
+}
+
+button:hover:before, button:hover:after {
+	width: 100%;
+    transition: 800ms ease all;
+}
