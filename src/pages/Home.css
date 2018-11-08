@@ -22,7 +22,7 @@
     border-bottom: 1px solid #01579b;
     box-shadow: 0 1px 0 0 #01579b;
 }
-p {
+.smaller {
     font-size: smaller
 }
 

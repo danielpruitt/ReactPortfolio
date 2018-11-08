@@ -26,6 +26,13 @@ const Home = () => {
                         <h4 className="custFont center light-blue-text text-darken-4">About Me</h4>
                         <Col size="4">
                             <img src={require("../images/headshot.JPG")} alt="Daniel Pruitt" className="circle valign-wrapper responsive-img hoverable" />
+                            <div className="left">
+                                <a href="https://www.linkedin.com/in/daniel-pruitt/" target="_blank" rel="noreferrer noopener"> <i className="fab fa-linkedin fa-7x"></i></a>
+                            </div>
+                            
+                            <div className="right">
+                                <a href="https://github.com/danielpruitt/" target="_blank" rel="noreferrer noopener"><i className="fab fa-github fa-7x"></i></a>
+                            </div>
                         </Col>
 
                         <Col size="8">
@@ -46,7 +53,7 @@ const Home = () => {
             <div>
                 <Container>
                     <Row>
-                    <h4 className="custFont center light-blue-text text-darken-4">Projects</h4>
+                        <h4 className="custFont center light-blue-text text-darken-4">Projects</h4>
 
                         <Col size="4">
                             <RevealCard
@@ -102,7 +109,7 @@ const Home = () => {
             </div>
 
             {/* Third Parallax */}
-            <div> 
+            <div>
                 <Parallax image={require("../images/mountains7.jpg")} />
             </div>
 
@@ -121,7 +128,7 @@ const Home = () => {
 
             {/* Fourth Parallax */}
             <div>
-                <Parallax image={require("../images/mountains4.jpg")}/>
+                <Parallax image={require("../images/mountains4.jpg")} />
             </div>
 
             {/* Footer */}

@@ -27,7 +27,7 @@ const EmailForm = () => (
                 </div>
 
                 <button type="submit" value="Send" className="center" >Send</button>
-                <p className="text-grey text-lighten-5">*Form hosted by Formspree.io, please continue through the next pages to send me an email!</p>
+                <p className="text-grey text-lighten-5 smaller">*Form hosted by Formspree.io, please continue through the next pages to send me an email!</p>
             </form>
         </div>
     </div>
