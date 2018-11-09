@@ -1,44 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## My React Portfolio
 
-## Available Scripts
+## https://danielpruitt.github.io/reactportfolio/ 
+I'm Daniel Pruitt and I'm  a web developer. I started my journey in coding and web development teaching myself HTML, CSS, and Javascript. It was a long journey and I didn't feel like I was going anywhere fast. A door opened up to join the Georgia Tech Coding Bootcamp so I took it. It was the perfect program for me and propelled my coding skill exponentially. I graduated the program in October of 2018 and have been looking forward to my dream career in web development and design. 
 
-In the project directory, you can run:
+This portfolio highlights projects that I have done for the Georgia Tech Bootcamp and highlights several different skills. It was built with React and the Materialize CSS libraries. 
 
-### `npm start`
+For anybody interested in my website(s) or has any questions or comments for me please contact me. 
+email: danielkylepruitt@gmail.com
+phone:770-634-8232
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+or the contact section of this portfolio
