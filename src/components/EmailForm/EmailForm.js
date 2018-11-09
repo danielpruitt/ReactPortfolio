@@ -4,7 +4,7 @@ import React from "react";
 const EmailForm = () => (
     <div>
         <div>   
-            <h4 className="custFont center light-blue-text text-darken-4">Contact</h4>
+            <h4 className="custFont center light-blue-text text-darken-4 scrollspy" id="contact">Contact</h4>
             <form action="https://formspree.io/danielkylepruitt@gmail.com" method="POST">
                 <div className="input-field col s12">
                     <input type="text" name="name" />

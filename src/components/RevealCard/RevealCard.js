@@ -1,7 +1,7 @@
 import React from "react";
 
 const RevealCard = (props) => (
-    <div className="card hoverable medium">
+    <div className="card hoverable flow-text ">
         <div className="card-image waves-effect waves-block waves-dark">
             <img className="activator responsive-img" src={`${props.image}`} alt="card" />
         </div>
