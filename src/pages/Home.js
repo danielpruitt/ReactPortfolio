@@ -7,7 +7,6 @@ import Navbar from "../components/Navbar/Navbar";
 import Parallax from "../components/Parallax/Parallax";
 import RevealCard from "../components/RevealCard/RevealCard";
 import EmailForm from "..//components/EmailForm/EmailForm";
-import Skills from "../components/Skills/Skills";
 import "./Home.css"
 
 
