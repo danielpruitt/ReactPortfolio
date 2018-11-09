@@ -1,7 +1,7 @@
 {
   "main.css": "/reactportfolio/static/css/main.d9bef2ff.chunk.css",
-  "main.js": "/reactportfolio/static/js/main.d86323c5.chunk.js",
-  "main.js.map": "/reactportfolio/static/js/main.d86323c5.chunk.js.map",
+  "main.js": "/reactportfolio/static/js/main.6d58ae9c.chunk.js",
+  "main.js.map": "/reactportfolio/static/js/main.6d58ae9c.chunk.js.map",
   "static/js/1.0cdd6f18.chunk.js": "/reactportfolio/static/js/1.0cdd6f18.chunk.js",
   "static/js/1.0cdd6f18.chunk.js.map": "/reactportfolio/static/js/1.0cdd6f18.chunk.js.map",
   "runtime~main.js": "/reactportfolio/static/js/runtime~main.f3444e3a.js",
@@ -15,9 +15,10 @@
   "static/media/burger.jpg": "/reactportfolio/static/media/burger.6122eb9a.jpg",
   "static/media/mountains7.jpg": "/reactportfolio/static/media/mountains7.965ce9f6.jpg",
   "static/media/mountains4.jpg": "/reactportfolio/static/media/mountains4.828b00e5.jpg",
+  "static/media/mountains5.jpg": "/reactportfolio/static/media/mountains5.1bd2d0f2.jpg",
   "static/media/headshot.JPG": "/reactportfolio/static/media/headshot.e65b721d.JPG",
   "static/css/main.d9bef2ff.chunk.css.map": "/reactportfolio/static/css/main.d9bef2ff.chunk.css.map",
   "index.html": "/reactportfolio/index.html",
-  "precache-manifest.f7cbb2ddef26b7552a23607f6a5d63ba.js": "/reactportfolio/precache-manifest.f7cbb2ddef26b7552a23607f6a5d63ba.js",
+  "precache-manifest.40b1b32e5c9427242b835a4ff8e0111c.js": "/reactportfolio/precache-manifest.40b1b32e5c9427242b835a4ff8e0111c.js",
   "service-worker.js": "/reactportfolio/service-worker.js"
 }

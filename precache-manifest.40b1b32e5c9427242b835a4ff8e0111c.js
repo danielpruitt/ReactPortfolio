@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "0af006cd62e3f7c87e7ef4824d4dece4",
-    "url": "/reactportfolio/static/media/controller.0af006cd.jpg"
+    "revision": "b7e7e947e048a0b34caf574ee810f5fc",
+    "url": "/reactportfolio/static/media/newspaper.b7e7e947.jpg"
   },
   {
-    "revision": "d86323c5b05ec1743381",
+    "revision": "6d58ae9c208c2fad46ff",
     "url": "/reactportfolio/static/css/main.d9bef2ff.chunk.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/reactportfolio/static/media/mountains6.9d210138.jpg"
   },
   {
-    "revision": "d86323c5b05ec1743381",
-    "url": "/reactportfolio/static/js/main.d86323c5.chunk.js"
+    "revision": "0af006cd62e3f7c87e7ef4824d4dece4",
+    "url": "/reactportfolio/static/media/controller.0af006cd.jpg"
   },
   {
-    "revision": "b7e7e947e048a0b34caf574ee810f5fc",
-    "url": "/reactportfolio/static/media/newspaper.b7e7e947.jpg"
+    "revision": "6d58ae9c208c2fad46ff",
+    "url": "/reactportfolio/static/js/main.6d58ae9c.chunk.js"
   },
   {
     "revision": "6fb8d98764120af1c1957fa4ed775788",
@@ -56,7 +56,11 @@ self.__precacheManifest = [
     "url": "/reactportfolio/static/media/mountains4.828b00e5.jpg"
   },
   {
-    "revision": "0abc300be3ab1e589af7ca4baa54f7a7",
+    "revision": "1bd2d0f2111b09accda8c3dbbd2f5727",
+    "url": "/reactportfolio/static/media/mountains5.1bd2d0f2.jpg"
+  },
+  {
+    "revision": "982166f0619a9e7419192b56a041d7f0",
     "url": "/reactportfolio/index.html"
   }
 ];
