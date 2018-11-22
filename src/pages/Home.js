@@ -102,7 +102,7 @@ const Home = () => {
                                 image={require("../images/burger.jpg")}
                                 title="Burger Paradise"
                                 description="This specific burger creation app is a full stack app that demonstrates the use of Handlebars, Express, Node, and MySql. Burgers can be logged in an input field, which are then appended to a card with a button to 'Devour' the burger, a list of 'Devoured' burgers are then shown in the third and final card."
-                                url="https://legendaryclicky.herokuapp.com/"
+                                url="https://burgerparadise.herokuapp.com/"
                                 github="https://github.com/danielpruitt/BurgerSequel"
                             />
                         </Col>
